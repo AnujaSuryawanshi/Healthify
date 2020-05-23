@@ -1,5 +1,5 @@
 # Healthify
-Online nutritionists app  create with MERN stack
+Online nutritionists app  created with MERN stack
 
 ![image](https://user-images.githubusercontent.com/52862817/82718222-343df500-9c6f-11ea-8cd9-783527c178e5.png)
 
